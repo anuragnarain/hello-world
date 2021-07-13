@@ -1,3 +1,3 @@
 package gopkg
 
-var Www = "anurag1"
+var Www = "anurag2"
